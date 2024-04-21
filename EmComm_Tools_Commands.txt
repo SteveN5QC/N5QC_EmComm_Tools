@@ -1,0 +1,7 @@
+
+
+
+
+The WGET Command:
+
+wget https://github.com/thetechprepper/emcomm-tools-os-community/releases/download/20240316r1/emcomm-tools-os-community-20240316r1.tar.gz
